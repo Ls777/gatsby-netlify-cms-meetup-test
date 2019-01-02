@@ -1,7 +1,7 @@
 ---
 templateKey: meetup
 title: Jan 10 2019
-date: 2019-01-10T23:00:00.000Z
+date: 2019-02-07T23:00:00.000Z
 presenters:
   - image: /img/benjamin-parker-736167-unsplash.jpg
     links: []
