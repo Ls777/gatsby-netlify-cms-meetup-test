@@ -1,7 +1,7 @@
 ---
 templateKey: meetup
 title: Test
-date: 2019-01-09T23:00:00.000Z
+date: 2019-01-10T23:00:00.000Z
 presenters:
   - links: []
 location:
